@@ -1,6 +1,6 @@
 <h1> Hi there 👋
 
-<h3> 🔭 I’m currently working on Node JS
+<h3> 🔭 I’m currently working on JS
 <h3> 🌱 I’m currently learning Telegram Bot
 <h3> 👯 I’m looking to collaborate on github
 <h3> 💬 Ask me about Backend Development
