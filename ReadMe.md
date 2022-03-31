@@ -3,7 +3,7 @@
 <h3> 🔭 I’m currently working on JS
 <h3> 🌱 I’m currently learning Telegram Bot
 <h3> 👯 I’m looking to collaborate on github
-<h3> 💬 Ask me about Backend Development
+<h3> 💬 Ask me about Frontend Development
 <h3> 📫 How to reach me: https://t.me/JaDiD015
 <br>
 <br>
